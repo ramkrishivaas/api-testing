@@ -1,0 +1,31 @@
+{
+  "add": {
+    "farm_name": "API Test Farm",
+    "farm_land_area": "",
+    "land_area": "0",
+    "land_unit": "acre",
+    "ownership_status": "",
+    "soil_type": "",
+    "chk_contact_same_as_farmer": "Y",
+    "contact_person": "API Test Farmer",
+    "contact_person_id": "${EXISTING_FARMER_ID}",
+    "contact_number": "${TEST_MOBILE_NUMBER}",
+    "countryCode": " +91",
+    "mapIndia_token": "${MAPINDIA_TOKEN}"
+  },
+  "update": {
+    "delete_image_ids": "",
+    "farm_name": "API Test Farm Updated",
+    "edit_farm_land_area": "",
+    "land_area": "0",
+    "land_unit": "acre",
+    "chk_contact_same_as_farmer": "Y",
+    "contact_person": "API Test Farmer",
+    "contact_person_id": "",
+    "contact_number": "${TEST_MOBILE_NUMBER}",
+    "ownership_status": "",
+    "soil_type": "",
+    "countryCode": " +91",
+    "mapIndia_token": "${MAPINDIA_TOKEN}"
+  }
+}

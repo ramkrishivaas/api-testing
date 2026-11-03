@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "Placeholder: replace with the verified API response schema.",
+  "oneOf": [
+    {
+      "type": "object"
+    },
+    {
+      "type": "array"
+    },
+    {
+      "type": "string"
+    }
+  ]
+}

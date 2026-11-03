@@ -1,0 +1,34 @@
+
+{
+  "add": {
+    "ccn_id": "39",
+    "crop_name": "Apples",
+    "crpdu_value": "",
+    "crpduty_value": "",
+    "intercrop_ccn_id": "",
+    "intercrop_crop_name": "",
+    "intercrop_crpdu_value": "",
+    "intercrop_crpduty_value": "",
+    "transplanted_date": "2026-11-01",
+    "platform": "web"
+  },
+  "update": {
+    "allocated_quantity": "0",
+    "allocated_quantity_units": "Tonne",
+    "area_unit": "acre",
+    "status": "CropBoundaryApproved",
+    "crop_area": "1",
+    "crop_name": "Apples",
+    "is_crop_name_updated": "0",
+    "crpdu_value": "39",
+    "intercrop_ccn_id": "109",
+    "intercrop_crop_name": "Bengal Gram",
+    "intercrop_transplant_type": "Direct Sowing",
+    "target_sowing_date": "2025-10-06",
+    "transplanted_date": "2026-10-01",
+    "intercrop_sowing_date": "2026-10-02",
+    "intercrop_harvest_date": "2026-12-31",
+    "intercrop_crop_duration": "short:90:1900",
+    "crop_variety": "undefined"
+  }
+}
